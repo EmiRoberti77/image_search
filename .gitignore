@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+vision-ai-demo-402815-3045b2bd90da.json
+.DS_Store
+.vscode/
+engine.txt
 
 # C extensions
 *.so
